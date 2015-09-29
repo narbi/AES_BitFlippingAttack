@@ -4,6 +4,8 @@
 #   or a confirmation to a request is a url which has three fields: username, email and validity period. 
 #   We perform a bit flip attack to change the validity period field of the url parameter.
 #   This demo is done for educational purposes only.
+#   Author: Christina Skouloudi
+#   Year: 2013
 
 import urllib
 import urlparse
